@@ -1,0 +1,6 @@
+Time Tracker com Django
+
+- Registrar clientes, projetos e atividades
+- Cronometro de trabalho
+- Acesso a histórico diario, semanal e mensal
+
